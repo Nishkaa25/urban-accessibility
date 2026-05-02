@@ -63,10 +63,13 @@ Urban navigation systems often ignore sidewalk-level accessibility, making it di
 ## 📈 Results
 The model is able to detect accessibility barriers from street-level images.
 
-(Add your prediction images in the `results/` folder and update names below)
+<img width="640" height="640" alt="1031_jpg rf d8a3f5c7ec217741ac468d7c1c67753c" src="https://github.com/user-attachments/assets/fe92463c-30ff-45fc-aa6b-8d7ee65d1d81" />
 
-![Prediction 1](results/img1.jpg)  
-![Prediction 2](results/img2.jpg)  
+<img width="640" height="640" alt="1100_jpg rf 4e78870763b489a93081fa7358be980c" src="https://github.com/user-attachments/assets/01b61895-6b58-4f7a-88b6-a581b493e162" />
+
+<img width="640" height="640" alt="6020_jpg rf b2e6380aef3dcb473e5869f5dba373eb" src="https://github.com/user-attachments/assets/7e6f5f32-a5d0-4f20-8f0b-e2ee4461db39" />
+
+<img width="640" height="640" alt="4033_jpg rf 7b54bf4a7630c310472a8470137d9cd5" src="https://github.com/user-attachments/assets/e192295d-0d30-49c9-8989-80df80ad887a" />
 
 ---
 
@@ -94,33 +97,6 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## 📁 Project Structure
-
-urban-accessibility/
-│
-├── README.md
-├── notebooks/
-│   └── training.ipynb
-│
-├── results/
-│   ├── img1.jpg
-│   ├── img2.jpg
-│   └── img3.jpg
-│
-├── dataset/
-│   ├── raw_sample/
-│   └── annotated_sample/
-│
-├── assets/
-│   └── pipeline.png
-│
-├── models/
-│   └── best.pt (optional)
-│
-└── data.yaml (optional)
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository:
@@ -145,4 +121,3 @@ urban-accessibility/
 - Includes preprocessing pipeline for clean training data  
 - Designed for future integration with mapping systems  
 
-MIT
