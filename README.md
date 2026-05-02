@@ -1,20 +1,20 @@
-# 🚧 Automated Urban Accessibility Mapping
+# Automated Urban Accessibility Mapping
 
-## 📌 Overview
+## Overview
 Urban navigation systems often ignore sidewalk-level accessibility, making it difficult for people with disabilities to navigate safely. This project uses computer vision to detect accessibility barriers such as potholes, broken pavements, and obstacles from street-level images.
 
 
 > This project is based on a collaborative repository. My contributions include model training, evaluation, and result visualization.
 ---
 
-## 🎯 Objectives
+## Objectives
 - Detect accessibility barriers from street images  
 - Identify obstacles like potholes, uneven surfaces, etc.  
 - Build a system that can later be integrated with mapping tools  
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: Mapillary street-level images  
 - Contains urban road and sidewalk images  
 
@@ -22,7 +22,7 @@ Urban navigation systems often ignore sidewalk-level accessibility, making it di
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 🔹 Preprocessing
 - Removed corrupted and non-decodable images  
@@ -60,7 +60,7 @@ Urban navigation systems often ignore sidewalk-level accessibility, making it di
 
 ---
 
-## 📈 Results
+## Results
 The model is able to detect accessibility barriers from street-level images.
 
 <img width="640" height="640" alt="1031_jpg rf d8a3f5c7ec217741ac468d7c1c67753c" src="https://github.com/user-attachments/assets/fe92463c-30ff-45fc-aa6b-8d7ee65d1d81" />
@@ -73,7 +73,7 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## 🧠 My Contribution
+## My Contribution
 - Trained and fine-tuned the YOLOv8 model on the accessibility dataset  
 - Evaluated model performance using mAP, precision, and recall  
 - Visualized detection outputs using OpenCV  
@@ -81,14 +81,14 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - GPS tagging of detected barriers  
 - Accessibility-aware routing  
 - Integration with mapping systems (Leaflet / Google Maps)  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - YOLOv8  
 - PyTorch  
@@ -97,7 +97,7 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    git clone https://github.com/Nishkaa25/urban-accessibility.git  
@@ -115,7 +115,7 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## 📌 Key Features
+## Key Features
 - Detects real-world accessibility barriers using computer vision  
 - Uses YOLOv8 for object detection  
 - Includes preprocessing pipeline for clean training data  
