@@ -1,1 +1,6 @@
+train: train/images
+val: valid/images
+test: test/images
 
+nc: 4
+names: ['pothole', 'broken_pavement', 'curb_missing', 'obstacle']
