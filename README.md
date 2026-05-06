@@ -63,11 +63,11 @@ Urban navigation systems often ignore sidewalk-level accessibility, making it di
 ## Results
 The model is able to detect accessibility barriers from street-level images.
 
-<img width="640" height="640" alt="1030_jpg rf d71b1ccf57443c773c66ce25a245eaed" src="https://github.com/user-attachments/assets/8e70a112-6bb7-451f-b224-41f43d7eda1e" />
-
 <img width="640" height="640" alt="1117_jpg rf a1911e63285713373a8d39efad0b5906" src="https://github.com/user-attachments/assets/b67ab688-0c86-41c1-9292-76e679e997e2" />
 
 <img width="640" height="640" alt="2019_jpg rf 29510d5f7a1bc8dab9b1bc340350eb67" src="https://github.com/user-attachments/assets/99edc0f9-061b-4ea8-9534-ad4fccdb8e24" />
+
+<img width="640" height="640" alt="1030_jpg rf d71b1ccf57443c773c66ce25a245eaed" src="https://github.com/user-attachments/assets/8e70a112-6bb7-451f-b224-41f43d7eda1e" />
 
 ---
 
