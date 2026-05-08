@@ -71,14 +71,6 @@ The model is able to detect accessibility barriers from street-level images.
 
 ---
 
-## My Contribution
-- Trained and fine-tuned the YOLOv8 model on the accessibility dataset  
-- Evaluated model performance using mAP, precision, and recall  
-- Visualized detection outputs using OpenCV  
-- Worked on understanding and implementing the training pipeline  
-
----
-
 ## Future Work
 - GPS tagging of detected barriers  
 - Accessibility-aware routing  
